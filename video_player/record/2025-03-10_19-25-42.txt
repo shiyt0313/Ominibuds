@@ -1,0 +1,76 @@
+Session started at 2025-03-10_19-25-42
+Video file: .\videos\ominibuds_1.mp4
+Start timestamp (epoch): 1741649142.2705145
+
+Timestamp: 1741649150.540
+Elapsed time: 8.270s
+Video time: 00:03
+Event: pause
+Details: Automatic pause for engagement input
+
+Timestamp: 1741649152.008
+Elapsed time: 9.737s
+Video time: 00:04
+Event: engagement
+Details: Level: 1
+
+Timestamp: 1741649152.008
+Elapsed time: 9.737s
+Video time: 00:04
+Event: play
+Details: After engagement input
+
+Timestamp: 1741649155.525
+Elapsed time: 13.255s
+Video time: 00:07
+Event: pause
+Details: Automatic pause for engagement input
+
+Timestamp: 1741649156.519
+Elapsed time: 14.248s
+Video time: 00:08
+Event: engagement
+Details: Level: 3
+
+Timestamp: 1741649156.521
+Elapsed time: 14.250s
+Video time: 00:08
+Event: play
+Details: After engagement input
+
+Timestamp: 1741649160.526
+Elapsed time: 18.255s
+Video time: 00:11
+Event: pause
+Details: Automatic pause for engagement input
+
+Timestamp: 1741649161.474
+Elapsed time: 19.203s
+Video time: 00:12
+Event: engagement
+Details: Level: 2
+
+Timestamp: 1741649161.474
+Elapsed time: 19.203s
+Video time: 00:12
+Event: play
+Details: After engagement input
+
+Timestamp: 1741649165.526
+Elapsed time: 23.255s
+Video time: 00:15
+Event: pause
+Details: Automatic pause for engagement input
+
+Timestamp: 1741649165.874
+Elapsed time: 23.603s
+Video time: 00:16
+Event: engagement
+Details: Level: 3
+
+Timestamp: 1741649165.875
+Elapsed time: 23.604s
+Video time: 00:16
+Event: play
+Details: After engagement input
+

@@ -13,18 +13,6 @@ while True:
     # Make sure that the connection with the tracker server (Eyeware application) is up and running.
     if tracker.connected:
 
-        # print("  * Head Pose:")
-        # head_pose = tracker.get_head_pose_info()
-        # head_is_lost = head_pose.is_lost
-        # print("      - Lost track:       ", head_is_lost)
-        # if not head_is_lost:
-        #     print("      - Session ID:       ", head_pose.track_session_uid)
-        #     rot = head_pose.transform.rotation
-        #     print("      - Rotation:          |%5.3f %5.3f %5.3f|" % (rot[0, 0], rot[0, 1], rot[0, 2]))
-        #     print("                           |%5.3f %5.3f %5.3f|" % (rot[1, 0], rot[1, 1], rot[1, 2]))
-        #     print("                           |%5.3f %5.3f %5.3f|" % (rot[2, 0], rot[2, 1], rot[2, 2]))
-        #     tr = head_pose.transform.translation
-        #     print("      - Translation:       <x=%5.3f m, y=%5.3f m, z=%5.3f m>" % (tr[0], tr[1], tr[2]))
 
         print("  * Gaze on Screen:")
         screen_gaze = tracker.get_screen_gaze_info()
